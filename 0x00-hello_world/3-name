@@ -1,0 +1,8 @@
+#!bin/bash\n
+include <stdio.h>
+Void man()
+{
+	printf("cisfun")
+}
+
+
